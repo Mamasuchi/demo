@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Card from './Card'
 
 function Cards(){
-    const initialItems = [ {id: 1, img: '/img/batmanlaugh.jpg', stat: ""},
+    const initialItems = [ {id: 1, img: '../../public/img/batmanlaugh.jpg', stat: ""},
     {id: 1, img: '/img/batmanlaugh.jpg', stat: ""},
     {id: 2, img: '/img/joker.jpg', stat: ""},
     {id: 2, img: '/img/joker.jpg', stat: ""},
